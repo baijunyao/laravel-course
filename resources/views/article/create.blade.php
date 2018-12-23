@@ -1,6 +1,6 @@
 @extends('layouts.home')
 
-@section('title', $title);
+@section('title', $title)
 
 @section('content')
     <form action="{{ url('view/store') }}" method="post">
