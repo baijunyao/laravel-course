@@ -65,3 +65,6 @@ Route::prefix('view')->group(function () {
     Route::get('restore/{id}', 'ViewController@restore');
     Route::get('forceDelete/{id}', 'ViewController@forceDelete');
 });
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
