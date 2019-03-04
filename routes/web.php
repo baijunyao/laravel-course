@@ -68,3 +68,10 @@ Route::prefix('view')->group(function () {
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+
+Route::prefix('validation')->group(function () {
+    Route::get('create', 'ValidationController@create');
+    Route::post('store', 'ValidationController@store');
+    Route::get('edit', 'ValidationController@edit');
+    Route::post('update', 'ValidationController@update');
+});
