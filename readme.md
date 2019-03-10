@@ -13,5 +13,6 @@
 12. [最适合入门的Laravel初级教程(十二)视图View](https://baijunyao.com/article/143)
 
 ## 最适合入门的Laravel中级教程
-1. [最适合入门的Laravel中级教程(一)用户认证](https://baijunyao.com/article/196)
-2. [最适合入门的Laravel中级教程(二)表单验证](https://baijunyao.com/article/197)
+1. [最适合入门的Laravel中级教程(一)序言](https://baijunyao.com/article/196)
+2. [最适合入门的Laravel中级教程(二)用户认证](https://baijunyao.com/article/197)
+3. [最适合入门的Laravel中级教程(三)表单验证](https://baijunyao.com/article/198)
