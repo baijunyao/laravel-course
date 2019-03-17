@@ -16,3 +16,4 @@
 1. [最适合入门的Laravel中级教程(一)序言](https://baijunyao.com/article/196)
 2. [最适合入门的Laravel中级教程(二)用户认证](https://baijunyao.com/article/197)
 3. [最适合入门的Laravel中级教程(三)表单验证](https://baijunyao.com/article/198)
+4. [最适合入门的Laravel中级教程(四)前端开发](https://baijunyao.com/article/199)
